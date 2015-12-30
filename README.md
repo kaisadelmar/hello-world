@@ -1,4 +1,4 @@
 # hello-world
-In the name of politeness and manners, it's generally good form to say hello
+It's polite to say hello
 
-I like Netflix, coffee, coding, reading TechCrunch articles and petting animals.
+I like Netflix, coffee, coding, reading and petting animals.
